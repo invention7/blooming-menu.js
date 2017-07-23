@@ -568,7 +568,7 @@
 
   // Select a menu item from the menu
   function handleItemClick (_this, index) {
-    return function () { _this.selectItem(index) }
+//    return function () { _this.selectItem(index) }
   }
 
   function bindEventListeners (self) {
